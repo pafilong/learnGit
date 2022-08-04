@@ -2,10 +2,6 @@ create a new line
 have a change
 master change info
 and 
-another dev to change info
-11111111111
 
 
-have a work is on
-
-this work is not time to commit ,is working !!
+just update for ff, dont update to master
